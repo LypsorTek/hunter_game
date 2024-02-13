@@ -1,0 +1,9 @@
+./includes/my.h:9: MINOR:C-V1
+./my_hunter:1: MAJOR:C-O1
+./src/animesprite.c:16: MINOR:C-L3
+./src/animesprite.o:1: MAJOR:C-O1
+./src/help.o:1: MAJOR:C-O1
+./src/main.o:1: MAJOR:C-O1
+./src/scoregestion.o:1: MAJOR:C-O1
+./src/sprites.c:14: MINOR:C-L6
+./src/sprites.o:1: MAJOR:C-O1
